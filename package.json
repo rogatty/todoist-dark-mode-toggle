@@ -1,0 +1,8 @@
+{
+  "name": "todoist-dark-mode-toggle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rogatty/todoist-dark-mode-toggle.git",
+  "author": "rogatty <7030884+rogatty@users.noreply.github.com>",
+  "license": "MIT"
+}
